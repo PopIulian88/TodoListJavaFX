@@ -1,0 +1,18 @@
+.button {
+    -fx-background-color: green;
+    -fx-text-fill: white;
+}
+
+.menu {
+    -fx-background-color: #8B4513;
+}
+
+.text-area {
+    -fx-text-fill: black;
+    -fx-font: 24px Papyrus;
+}
+
+.list-view {
+    -fx-text-alignment: center;
+    -fx-font-size: 16px;
+}

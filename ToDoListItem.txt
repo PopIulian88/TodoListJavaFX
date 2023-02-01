@@ -1,11 +1,8 @@
-Mail birthday card	Buy a 30th birthday card for Jon	08-02-2023
 Bascketball	Play a bascketball game	10-03-2023
 Watch a move	Go on Netflix an select a relaxing move	01-02-2024
 Get rich	Never have a problem with money	08-07-2023
-Merg sa vad casa	Daca imi place casa o sa dau banii si am sa o cumpar dupa care ma mut in ea	08-02-2023
-Description	This is  al very long description	11-01-2023
-Test2	Let's test this shit	20-01-2023
-Azi fac	Astazsi este o zii mare si am sa fac multe	31-01-2023
-Maine	Maine este o zii mare trebe  sa te ridici devreme din pat si sa treci la treaba	01-02-2023
-URGENT	Trebuie sa termin asta cat de repede posibil	02-02-2023
-Today	Azi facem paranghelie	01-02-2023
+Help parents	I help my mother to clean the house	31-01-2023
+Interview	Interview at the company you've been wanting to work for for a long time	02-02-2023
+Read	Finish reading the book on how to behave in society	02-02-2023
+Play	Time to relax after a long week	01-02-2023
+Birthday	Go to your cousin birthday and bring him a big gift	02-02-2023

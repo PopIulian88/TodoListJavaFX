@@ -16,18 +16,18 @@
 <?import javafx.scene.control.Tooltip?>
 <?import javafx.scene.control.ToggleButton?>
 <BorderPane fx:id="mainBorderPane" xmlns:fx="http://javafx.com/fxml"
-            fx:controller="com.julius.todolistjava.HelloController">
+            fx:controller="com.julius.todolistjava.HelloController" stylesheets="@styles.css">
     <top>
         <VBox>
-            <MenuBar>
-                <Menu text="File">
-                    <items>
-                        <Menu text="New.." onAction="#showNewItemDialog"/>
-                        <SeparatorMenuItem/>
-                        <Menu text="Exit" onAction="#handleExit"/>
-                    </items>
-                </Menu>
-            </MenuBar>
+<!--            <MenuBar>-->
+<!--                <Menu text="File">-->
+<!--                    <items>-->
+<!--                        <Menu text="New.." onAction="#showNewItemDialog"/>-->
+<!--                        <SeparatorMenuItem/>-->
+<!--                        <Menu text="Exit" onAction="#handleExit"/>-->
+<!--                    </items>-->
+<!--                </Menu>-->
+<!--            </MenuBar>-->
             <ToolBar>
                 <HBox spacing="10">
                     <Button text="New..." onAction="#showNewItemDialog">
@@ -55,14 +55,14 @@
         <VBox style="-fx-background-color: white">
             <TextArea fx:id="itemDescriptionTextArea" VBox.vgrow="ALWAYS" wrapText="true"/>
             <HBox>
-                <Label text="Due: " style="-fx-background-color: white">
+                <Label text="Due: ">
                     <font>
-                        <Font name="Times New Roman bold" size="20"/>
+                        <Font name="Times New Roman bold" size="32"/>
                     </font>
                 </Label>
-                <Label fx:id="deadlineLabel" style="-fx-background-color: white">
+                <Label fx:id="deadlineLabel">
                     <font>
-                        <Font name="Times New Roman bold" size="20"/>
+                        <Font name="Times New Roman bold" size="32"/>
                     </font>
                 </Label>
             </HBox>

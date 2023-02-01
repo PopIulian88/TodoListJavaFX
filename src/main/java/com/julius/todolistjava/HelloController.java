@@ -113,7 +113,7 @@ public class HelloController {
                             }else if(item.getDeadline().equals(LocalDate.now().plusDays(1))){
                                 setTextFill(Color.ORANGE);
                             }else{
-                                setTextFill(Color.GREEN);
+                                setTextFill(Color.LIMEGREEN);
                             }
                         }
                     }
